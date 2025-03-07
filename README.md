@@ -1,3 +1,5 @@
+# DATE: 7.03.2025
+# REG NO: 212224040155
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
@@ -37,6 +39,8 @@
 
  ## OUTPUT
  
+![Screenshot 2025-03-07 203225](https://github.com/user-attachments/assets/be399204-a50b-47a3-b0fc-ee1cbd1ae647)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
